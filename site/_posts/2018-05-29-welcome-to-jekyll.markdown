@@ -1,26 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Some Poems!"
 date:   2018-05-29 18:05:55 +0300
 image:  10.jpg
 tags:   Jekyll
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<!DOCTYPE html>
+<html>
+<head>
+       <meta charset = 'utf-8'>
+       <title> Design + Tech. </title>
+       <link rel = "stylesheet" href = "portfolio.css">
+       <link rel="shortcut icon" type="image/x-icon" href="logo.png"/>
+    </head>
+    <div class = "intro">
+        <h2> Lorem Ipsum </h2>
+</div>
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<body>
+<h1> Design + Tech. Selected Work ↓ </h1>

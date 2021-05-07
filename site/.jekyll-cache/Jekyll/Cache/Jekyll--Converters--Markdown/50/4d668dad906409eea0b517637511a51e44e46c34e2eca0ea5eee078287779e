@@ -1,0 +1,16 @@
+I"«<p>Yay! This is a Sample Post! You can edit it using Markdown!</p>
+
+<h1 id="this-is-a-header">THIS IS A HEADER</h1>
+
+<p><strong>this is bold</strong>
+&lt;!DOCTYPE html&gt;</p>
+<html>
+<head>
+       <meta charset="utf-8" />
+       <title> Design + Tech. | Anjali Chary </title>
+       <link rel="stylesheet" href="portfolio.css" />
+       <link rel="shortcut icon" type="image/x-icon" href="logo.png" />
+    </head>
+    
+</html>
+:ET

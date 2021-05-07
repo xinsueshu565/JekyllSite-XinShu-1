@@ -6,8 +6,8 @@ body {
   font-family: $base-font-family;
   font-size: $base-font-size;
   line-height: $base-line-height;
-  color: $text-color;
-  background-color: $background-color;
+  color: rgb(29, 18, 18);
+  background-color: rgb(247, 211, 217);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   input, textarea {
@@ -102,13 +102,13 @@ img,
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    color: $gray;
+    color: rgb(243, 220, 224);
   }
 }
 
 a {
     text-decoration: none;
-    color: $link-color;
+    color: rgb(241, 200, 207);
     transition: $global-transition;
     &:hover {
       color: darken($link-color, 10%);
@@ -123,5 +123,5 @@ hr {
   height: 1px;
   margin: 40px 0;
   border: 0;
-  background: $light-gray;
+  background: rgb(240, 211, 216);
 }
