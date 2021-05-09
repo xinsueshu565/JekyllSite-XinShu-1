@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  An extension of myself
+title: Marry me, please
 date:   2018-07-19 15:01:35 +0300
-image:  03.jpg
-tags:   Style
+image:  MARRYME.JPG
+tags:   Pervious.work
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 

@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello!
 
-### More Information
+### About Xin Shu
 
-A place to include any other types of information that you'd like to include about yourself.
+Xin Shu is a chinese multimedia visual artist who works with sculpture, installation and videos. She majorily works with sculptural medium like clay, fabric and resin. She is interested in examining woman's issue in terms of body image in society. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xinshu@alum.calarts.edu](mailto:email@domain.com)

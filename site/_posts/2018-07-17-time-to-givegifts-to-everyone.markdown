@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Time to give gifts to everyone
+title:  The life of a tree
 date:   2018-07-17 15:01:35 +0300
-image:  04.jpg
-tags:   Life
+image:  04.png
+tags:   Pervious Work
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 

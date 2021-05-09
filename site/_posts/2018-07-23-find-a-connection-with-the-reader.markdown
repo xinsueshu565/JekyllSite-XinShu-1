@@ -2,8 +2,8 @@
 layout: post
 title:  Baby, Please
 date:   2018-07-24 15:01:35 +0300
-image:  02.jpg
-tags:   Resources
+image:  02.png
+tags:   Pervious.work
 ---
 This is a group of sculptures that i made. 
 
@@ -24,6 +24,6 @@ I made this group of work as a source of comfort in trying time.
 
 
 
-![]({{ site.baseurl }}/images/07.jpg)
+![]({{ site.baseurl }}/images/portfolio 2.jpg)
 *Minimalism*
 
