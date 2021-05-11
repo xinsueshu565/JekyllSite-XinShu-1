@@ -9,7 +9,7 @@ $mobile:  576px;
 $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
 .container {
-  max-width: $container-base-width;
+ max-width: $container-base-width;
   padding-left: $container-offset;
   padding-right: $container-offset;
   margin: 0 auto;
