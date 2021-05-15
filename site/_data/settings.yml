@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Xin Shu
-logo: pink_logo.png # You can add own logo.
+logo: freelogo.png # You can add own logo.
 description: Portfolio description something something
 
 
@@ -27,7 +27,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: amisueshu # Add instagram username
 
 
 #-------------------------------
